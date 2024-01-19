@@ -1,5 +1,7 @@
 # GymBuddy
 
+De menționat că acesta a fost un proiect de grup, aportul meu la acest prouect a fost pe partea de front-end.
+
 GymBuddy este o platformă de fitness online care oferă utilizatorilor acces la o gamă variată de resurse pentru a-și atinge obiectivele legate de sănătate și fitness. Platforma se concentrează pe furnizarea de exerciții, informații despre sali, antrenori și nutriționiști, adaptate nevoilor și preferințelor fiecărui utilizator. Utilizatorii pot explora și accesa aceste resurse în funcție de propriile interese și obiective de fitness.
 
 # Chestionar de preferințe:
